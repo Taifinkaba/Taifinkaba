@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Portfolio](https://github.com/Taifinkaba/PortfolioCLA)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **AWS**
 
 - 👯 I’m looking to collaborate on **Frontend/ Full Stack Projects**
 
